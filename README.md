@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-    Semantic HTML is used to give meaning to all of the different elements of a web page.
+    Semantic HTML is used to give meaning and structure to all web pages. You can think of it as the foundation and walls of your house. 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
@@ -54,7 +54,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
-    Git allows many different developers from all over the world to contribute code in an asynchronous way.
+    Git allows developers from all over the world to contribute code in an asynchronous way. It also allows us to keep track of any changes which is very useful in the developer world. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -69,9 +69,9 @@ You are expected to be able to answer all these questions. Your responses contri
  
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-- [ ] Add your project manager as a reviewer on the pull-request
-- [ ] Your project manager will count the project as complete by merging the branch back into master.
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [x] Add your project manager as a reviewer on the pull-request
+- [x] Your project manager will count the project as complete by merging the branch back into master.
  
 
 
